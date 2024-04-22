@@ -7,4 +7,7 @@
     <?php wp_head(); ?>
 </head>
 <body>
+    <header>
+        <?php echo 'Мій сайт' ?>
+    </header>
     
